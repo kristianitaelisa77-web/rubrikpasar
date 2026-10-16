@@ -1,0 +1,6 @@
+{
+  "name": "Rubrik Proyek Digital SMP - Pasar Tradisional",
+  "description": "Aplikasi Penilaian Rubrik Digital Interaktif untuk Guru SMP Kelas 7 - Proyek Buku Cerita Digital 'Mengungkap Cerita di Balik Sebuah Pasar' dengan kalkulasi otomatis dan lembar cetak siap pakai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
